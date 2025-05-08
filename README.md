@@ -1,5 +1,5 @@
 # yieldcatrep
-As a second year student in communication networks and security,  it was my first experience with web security through practical exploration. As a first-time user of Yield Cat, some things did not feel intuitive, and I have several suggestions to make the web application more student-friendly.\
+As a second year student in communication networks and security,  it was my first experience with web security through practical exploration. As a first-time user of Yield Cat, some things did not feel intuitive, and I have several suggestions to make the web application more student-friendly.
 
 Here are the suggestions:\
 Multiple sections for students accessing the site at different levels of knowledge and experience\
